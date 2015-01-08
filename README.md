@@ -1,7 +1,5 @@
 # ecommerce_us
 
-# ecommerce_us
-
 
 
     |         | SUIVI DE COMMANDE | PRIX | DESIGN | ANIMATION | REFERENCEMENT | ASSISTANCE | RESPONSIVE | INTUITIF | 
@@ -26,6 +24,7 @@
 - Arborescence du site : Page d'acceuil avec rubriques :
   - index.html
   - page produits
+  - page recettes
   - contact
   - page commande
   - page panier

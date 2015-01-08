@@ -28,6 +28,8 @@
   - contact
   - page commande
   - page panier
+  - CDV 
+  - Tunnel d'achat 
   
 Photos : http://www.flavorsbakery.be/
   

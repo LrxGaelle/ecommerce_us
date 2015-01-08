@@ -2,18 +2,18 @@
 
 
 
-    |         | SUIVI DE COMMANDE | PRIX | DESIGN | ANIMATION | REFERENCEMENT | ASSISTANCE | RESPONSIVE | INTUITIF | 
+    |         | SUIVI DE COMMANDE | PRIX | DESIGN | ANIMATION | REFERENCEMENT | ASSISTANCE | RESPONSIVE | INTUITIF     | 
     |---------|--------------------------------------------------------------------------     
-    |         |                   |      |        |           |               |            |            |          |
-    | MAGENTO |                   |      |        |           |               |            |            |          |
-    |         |                   |      |        |           |               |            |            |          |
+    |         |                   |      |        |           |               |            |            |              |
+    | MAGENTO |                   |  2   |        |           |               |            |            |    1         |
+    |         |                   |      |        |           |               |            |            |              |
     |---------|--------------------------------------------------------------------------
-    |         |                   |      |        |           |               |            |            |          |
-    | OXATIS  |                   | 2,5  |        |           |               |            |            |          |
-    |         |                   |      |        |           |               |            |            |          |
+    |         |                   |      |        |           |               |            |            |              |
+    | OXATIS  |                   | 2,5  |        |           |               |            |            |     3        |
+    |         |                   |      |        |           |               |            |            |              |
     |---------|-------------------------------------------------------------------------
-    | SHOPIFY |         5         | 4,5  |        |           |               |            |            |          |
-    |         |                   |      |        |           |               |            |            |          |
+    | SHOPIFY |         5         | 4,5  |        |           |               |            |            |     4        |
+    |         |                   |      |        |           |               |            |            |          
     
     
 - Nom du site : Cupcakeworld.fr

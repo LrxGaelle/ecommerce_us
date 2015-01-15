@@ -26,3 +26,9 @@ Afficher les 3 derniers articles
 Mettre la date au dessus du titre
 Mettre la date au format "long"
 Afficher le détail de l'article en pleine largeur
+
+PAGE CONTACT
+Créer une page contact/ajouter à l'arbo
+Supprimer les <br> après les labels
+Faire passer les champs (input) à la ligne en CSS
+Centrer le formulaire sur la page
